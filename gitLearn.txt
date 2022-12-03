@@ -1,1 +1,1 @@
-this is the first exercice Git
+this is the modified version
